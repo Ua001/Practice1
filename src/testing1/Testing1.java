@@ -21,6 +21,9 @@ public class Testing1 {
         
        //Now adding new Code in the Github
         System.out.println("New Code in Github");
+        
+        //Now agin making a change by using 2nd approch that is Fetch + Merge
+        System.out.println("Fetch and Merge");
     }
     
 }
